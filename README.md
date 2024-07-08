@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Itz-Garry
+- 📫 You can find me on Discord: @ItzGarry
 - ⚡ Fun fact: I like Mushrooms
 
 <!---
