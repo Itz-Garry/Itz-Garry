@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Itz-Garry
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C#, Java, Javascript, JSON
-- 📫 You can find me on Discord: @ItzGarry
 - ⚡ Fun fact: I like Mushrooms
 
 <!---
